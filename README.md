@@ -476,8 +476,8 @@ Output:
 
 ## Authors :black_nib:
 
-* Brennan D Baraban <[MG-Musty](https://github.com/MG-Musty)>
-* Michael Klein <[Edohkindness1](https://github.com/Edohkindness1)>
+* Mustapha Aliyu <[MG-Musty](https://github.com/MG-Musty)>
+* Edoh Kindness Ibrahim <[Edohkindness1](https://github.com/Edohkindness1)>
 
 ## License :lock:
 
